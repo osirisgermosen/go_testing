@@ -13,4 +13,4 @@ func main() {
 	fmt.Println("The number is: ", number)
 	fmt.Println("My age is: ", age)
 	fmt.Println("The sum 5 + 6 is:", sum(5, 6))
-}}
+}
