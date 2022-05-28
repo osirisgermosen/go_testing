@@ -6,6 +6,10 @@ func sum(a, b int) int {
 	return a + b
 }
 
+func multi(a, b int) int {
+	return a * b	
+}
+
 func main() {
 	number := 25
 	age := 32
