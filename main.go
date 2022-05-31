@@ -17,4 +17,5 @@ func main() {
 	fmt.Println("The number is: ", number)
 	fmt.Println("My age is: ", age)
 	fmt.Println("The sum 6 + 6 is:", sum(6, 6))
+	fmt.Println("The multi 6 * 2 is:", multi(6, 4))
 }
